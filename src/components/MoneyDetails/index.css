@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.balance-container {
+  background-color: #ecfccb;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px #84cc16;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+.Income-container {
+  background-color: #cffafe;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px #06b6d4;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+.Expenses-container {
+  background-color: #ede9fe;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px #7c3aed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+.transactionsContainer {
+  display: flex;
+  justify-content: space-around;
+  
+}
+.img-ctm {
+  height: 100px;
+}

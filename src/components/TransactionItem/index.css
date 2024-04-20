@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.history {
+  display: flex;
+  justify-content: space-around;
+}
+.delete-image {
+  height: 30px;
+}
+.btn-custom {
+  background-color: white;
+  border-width: 0px;
+}
